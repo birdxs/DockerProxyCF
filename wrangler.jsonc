@@ -5,11 +5,5 @@
   "main": "src/index.js",
   "compatibility_date": "2025-07-01",
   "compatibility_flags": [],
-  "d1_databases": [
-    {
-      "binding": "DB",
-      "database_name": "docker-hub-accounts",
-      "database_id": "<your-d1-database-id>" // 真实 id 在 deploy 分支（账号相关，不入 main）
-    }
-  ]
+  "d1_databases": []
 }
